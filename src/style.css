@@ -843,6 +843,10 @@ a{
   .project-wrapper{
     width: 90vw !important;
   }
+
+  .footer-row{
+    gap: 7px !important;
+  }
   
   .projects-imgs{
     width: 100% !important;
@@ -881,6 +885,8 @@ a{
     margin-left: calc(80px + 10vw);
     margin-top: calc(70px + 10vh);
   }
+
+
 }
 
 @media screen and (max-width: 320px){
@@ -905,6 +911,8 @@ a{
   .map{
     padding: 0 !important;
   }
+
+
 
   .nav-w .links-wrapper.active{
     margin-left: calc(20px + 10vw);
