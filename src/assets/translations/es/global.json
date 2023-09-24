@@ -1,0 +1,105 @@
+{
+  "Navbar":{
+    "Home": "Inicio",
+    "About": "Sobre mi",
+    "Projects": "Proyectos",
+    "Contact": "Contacto",
+    "Language": "Idiomas",
+    "Languages-es": "Español",
+    "Languages-en": "Ingles",
+    "themeDark": "Oscuro",
+    "themeLight": "Claro"
+  },
+
+  "header-homeOne":{
+    "description": "Desarrollador Font-End",
+    "Download": "Descargar CV",
+    "Contact": "Contactame"
+  },
+  
+  "header-homeTwo":{
+    "Who": "¿Quién",
+    "AmI_span": "Soy?",
+    "letMeIntroduce": "Permíteme",
+    "letMeIntroduce_span": "presentarme",
+    "programmingLove": "Amo programar y estoy en proceso de aprendizaje, creo que al menos he aprendido algo, creo... 😶‍🌫️",
+    "learnedTechnologies": "He aprendido tecnologías como",
+    "interestedInLearning": "Estoy interesado en aprender nuevas tecnologías como",
+    "andAlsoInterestedIn": "y también en aprender sobre",
+    "andAlsoInterestedIn_span": "Inteligencia Artifical",
+    "andAlsoInterestedIn_span2": "Ciberseguridad",
+    "applyKnowledge": "Siempre que es posible, aplico mis conocimientos para desarrollar proyectos con",
+    "like": "como",
+    "and": "y"
+  },
+
+  "skills-sec": {
+    "skillsTitle": "Habilidades",
+    "skillsTitleSpan": "Técnicas"
+  },
+  
+  "projects-sec": {
+    "projectTitle": "Proyectos",
+    "projectTitleSpan": "Destacados",
+    "btnCode": "Codigo",
+    "btnDemo": "Demostración"
+  },
+
+  "projectOne":{
+    "title": "GENERADOR DE ",
+    "titleSpan": "CODIGOS QR",
+    "description": "Un sitio web diseñado para apoyar a la",
+    "descriptionSpan": "comunidad",
+    "descriptionContinue": "a poder generar códigos QR de una manera",
+    "descriptionSpan2": "simple",
+    "descriptionSpan3": "rapida",
+    "and": "y"
+  },
+  
+  "projectTwo":{
+    "title": "TIENDA DE ",
+    "titleSpan": "ROPA",
+    "description": "Tienda de ropa visual y estatica, la",
+    "descriptionSpan": "maquetacion",
+    "descriptionContinue": "esta presente por el uso de",
+    "and": "y"
+  },
+
+  "projectThree":{
+    "title": "GENERADOR DE",
+    "titleSpan": "CONTRASEÑAS",
+    "description": "Pagina que permite generar",
+    "descriptionSpan": "contraseñas",
+    "descriptionContinue": "aleatorias con diferentes",
+    "descriptionSpan2": "combinaciones"
+  },
+
+  "projectFour":{
+    "description": "Crea cualquier tipo de",
+    "descriptionSpan": "dibujo,",
+    "descriptionContinue": "usa tu imaginacion al usar este"
+  },
+  
+  "contact":{
+    "title": "Contactame",
+    "titleSpan": "Aqui!",
+    "titleh2": "Enviame un mensaje:",
+    "name": "Nombre:",
+    "lastname": "Apellido:",
+    "lnplaceholder": "Reyes (Opcional)",
+    "Mail": "Correo:",
+    "Mplaceholder": "Correo electronico",
+    "Number": "Número:",
+    "Nplaceholder": "Número telefónico (Opcional)",
+    "Message": "Mensaje:",
+    "Msplaceholder": "Dejame un mensaje (Opcional)",
+    "btnSend": "Enviar",
+    "Information": "Información:",
+    "street": "Calle"
+  },
+  
+  "footer":{
+    "designed": "Diseñada y desarrollada por"
+  }
+
+}

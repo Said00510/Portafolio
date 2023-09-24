@@ -1,0 +1,104 @@
+{
+  "Navbar":{
+    "Home": "Home",
+    "About": "About me",
+    "Projects": "Projects",
+    "Contact": "Contact",
+    "Language": "Languages",
+    "Languages-es": "Spanish",
+    "Languages-en": "English",
+    "themeDark": "Dark",
+    "themeLight": "Light"
+  },
+
+  "header-homeOne":{
+    "description": "Front-end Developer",
+    "Download": "Download CV",
+    "Contact": "Contact me"
+  },
+
+  "header-homeTwo":{
+    "Who": "Who",
+    "AmI_span": "am I?",
+    "letMeIntroduce": "Let me introduce",
+    "letMeIntroduce_span": "myself",
+    "programmingLove": "I love programming and I'm in the process of learning. I believe I've learned at least something, I think... 😶‍🌫️",
+    "learnedTechnologies": "I've learned technologies like",
+    "interestedInLearning": "I'm interested in learning new technologies like",
+    "andAlsoInterestedIn": "and also interested in learning about",
+    "andAlsoInterestedIn_span": "Artificial Intelligence",
+    "andAlsoInterestedIn_span2": "Cybersecurity",
+    "applyKnowledge": "Whenever possible, I apply my knowledge to develop projects with",
+    "and": "and"
+  },
+
+  "skills-sec": {
+    "skillsTitle": "Technical",
+    "skillsTitleSpan": "skills"
+  },
+
+  "projects-sec": {
+    "projectTitle": "Featured",
+    "projectTitleSpan": "Projects",
+    "btnCode": "Code",
+    "btnDemo": "Demo"
+  },
+
+  "projectOne":{
+    "title": "QR CODE ",
+    "titleSpan": "GENERATOR",
+    "description": "A website designed to support the",
+    "descriptionSpan": "community",
+    "descriptionContinue": "in being able to generate QR codes in a",
+    "descriptionSpan2": "simple",
+    "descriptionSpan3": "fast way",
+    "and": "and"
+  },
+
+  
+  "projectTwo":{
+    "title": "CLOTHING",
+    "titleSpan": "STORE",
+    "description": "Visual and static clothing store, the ",
+    "descriptionSpan": "layout",
+    "descriptionContinue": "is present through the use of ",
+    "and": "and"
+  },
+
+  "projectThree":{
+    "title": "PASSWORD",
+    "titleSpan": "GENERATOR",
+    "description": "Page that allows you to generate random",
+    "descriptionSpan": "passwords",
+    "descriptionContinue": "with different ",
+    "descriptionSpan2": "combinations"
+  },
+
+  "projectFour":{
+    "description": "Create any type of ",
+    "descriptionSpan": "drawing,",
+    "descriptionContinue": "use your imagination when using this "
+  },
+
+  "contact":{
+    "title": "Contact me",
+    "titleSpan": "Here!",
+    "titleh2": "Send me a message:",
+    "name": "Name",
+    "lastname": "Last name:",
+    "lnplaceholder": "Reyes (Optional)",
+    "Mail": "Mail:",
+    "Mplaceholder": "Email",
+    "Number": "Number:",
+    "Nplaceholder": "Phone number (Optional)",
+    "Message": "Message:",
+    "Msplaceholder": "Drop me a message (Optional)",
+    "btnSend": "Send",
+    "Information": "Information:",
+    "street": "Street"
+  },
+
+  "footer":{
+    "designed": "Designed and developed by"
+  }
+}

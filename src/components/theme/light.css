@@ -1,0 +1,134 @@
+/*Globales*/
+:root{
+    --graydark: #333333;
+    --dark : #000000;
+    --navyblue: #0A192F;
+    --yellow: #FFD700;
+    --white: #FFFFFF;
+    --red: #FF0000;
+    --orange: #FFA500;
+    --pink: #FF69B4;
+    --lightpink: #FFC0CB;
+    --timingFunction: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+
+    /*light theme*/
+    --lightgrey: #F5F5F5;
+    --lightblue: #87CEEB;
+    --golden: #FFD700;
+    --silver: #C0C0C0;
+}
+
+.light{
+    color: #000;
+    background-color: #fff !important;   
+    transition: .3s ease-in-out;
+}
+
+.light .navbar{
+    background-color: #000;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+
+}
+
+.light .navbar a{
+    color: #fff !important;
+}
+
+.light .theme-img{
+  filter: grayscale(0);
+}
+
+.light .btn-home{ 
+    background-color: var(--navyblue);
+    color: #fff;
+}
+
+.light .btn-home:hover{
+    background-color: #072547;
+}
+
+.light .home-card h1{
+    color: #000 !important;
+}
+
+.light .home-card h1 span{
+    color: var(--lightblue) !important;
+}
+
+.light .home-card{
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+}
+
+.light .home-aboutme-info{
+    color: #000000 !important;
+}
+
+.light .home-aboutme-info i b{
+    color: var(--lightblue) !important;
+}
+.light .heading-name-skills{
+    color: #000;
+}
+
+.light .heading-name-skills span{
+    color: var(--lightblue);
+}
+
+.light .skills{
+    background-color: #fff;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.light .skills-info{
+    color: #000;
+}
+
+.light .project-wrapper{
+    background-color: #fff;
+    color: #000;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.light .projects-title,
+.light .projects-text{
+    color: #000;
+}
+
+.light .projects-title span{
+    color: var(--golden);
+}
+
+.light .projects-text span{
+    color: var(--red);
+}
+
+.light .form{
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.light .form{
+    background-color: #fff;
+}
+
+.light .form h2{
+    font-weight: bold;
+}
+
+.light .infoContact{
+    background-color: var(--lightblue);
+}
+
+.light .input-box span{
+    color: var(--silver);
+}
+
+.light .info-box a:hover{
+    transition: .3s ease-in;
+    color: var(--dark);
+    text-decoration: underline;
+}
+
+
+
+
