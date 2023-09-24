@@ -12,7 +12,7 @@ function Footer(){
     return(
         <footer className='footer'>
             <Container>
-                <Row style={{alignItems: 'center'}}>
+                <Row style={{alignItems: 'center', gap: "7px"}}>
                     <Col md={4}>
                             <p>{t("footer.designed")} <span><a href="#">Dylan Rivas</a></span> </p>                    
                     </Col>

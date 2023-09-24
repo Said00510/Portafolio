@@ -225,13 +225,15 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
-}
+    z-index: 0;
+  }
 
 .home-avatar-img{
     width: 300px;
     height: 300px;
     border-radius: 50%;
     border: 2px solid #fff;
+    z-index: 0;
 }
 
 .home-about-footer{
@@ -899,6 +901,11 @@ a{
   .contact{
     padding: 10px !important;
   }
+
+  .map{
+    padding: 0 !important;
+  }
+
   .nav-w .links-wrapper.active{
     margin-left: calc(20px + 10vw);
     margin-top: calc(40px + 10vh);
