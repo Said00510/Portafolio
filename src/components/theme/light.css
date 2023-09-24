@@ -114,6 +114,7 @@
 
 .light .form h2{
     font-weight: bold;
+    color: var(--dark) !important;
 }
 
 .light .infoContact{
