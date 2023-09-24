@@ -798,7 +798,7 @@ a{
   .home-aboutme{
     min-width: 100% !important;
   }
-  .home-aboutme h1{
+  .home-aboutme h2{
     display: inline-flex;
     gap: 15px;
     margin-bottom: 20px;
@@ -820,7 +820,7 @@ a{
   .input-box input[type="submit"]{
     min-width: 100% !important;
   }
-  .home-aboutme h1{
+  .home-aboutme h2{
     display: inline-block;
     text-align: center;
   }
@@ -869,7 +869,7 @@ a{
 
 
 @media screen and (max-width: 412px){
-  .home-aboutme h1{
+  .home-aboutme h2{
     font-size: 2.1em !important;
   }
   #contact .container{
@@ -885,7 +885,7 @@ a{
   .heading-name-skills{
     font-size: 2em;
   }
-  .home-aboutme h1{
+  .home-aboutme h2{
     font-size: 1.6em !important;
   }
 
@@ -906,7 +906,7 @@ a{
 }
 
 @media screen and (max-width: 290px){
-  .home-aboutme h1{
+  .home-aboutme h2{
     font-size: 1.4em !important;
   }
   .home-aboutme p{
