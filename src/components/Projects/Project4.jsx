@@ -23,7 +23,7 @@ function Project4(){
                     </div>
                         <div className="info-wrapper">
                             <div className="information">
-                                    <h2 className="projects-title">PIXEL <span className="red">Art</span></h2>
+                                    <h2 className="projects-title">{t("projectThree.title")} <span className="red">{t("projectThree.titleSpan")}</span></h2>
                                     <div className="projects-card-langes">
                                         <span title="HTML5" className="langes-html"><AiFillHtml5/></span>
                                         <span title="CSS3" className="langes-css"><BiLogoCss3/></span>
@@ -33,10 +33,10 @@ function Project4(){
                                     {t("projectFour.description")} 
                                     <span className="oranje"> {t("projectFour.descriptionSpan")} </span>
                                     {t("projectFour.descriptionContinue")}
-                                    <span className="oranje"> PixelArt.</span></p>
+                                    </p>
                                     <div className="projects-btn">
-                                        <button className="btnP btn-github"><a href="https://github.com/Said00510/PixelArt" target='_blank'>{t("projects-sec.btnCode")} <AiFillGithub/></a></button>
-                                        <button className="btnP btn-demo"><a href="https://pixelart-aradiacode.vercel.app/" target='_blank'>{t("projects-sec.btnDemo")} <BsFillLightningChargeFill/></a></button>
+                                        <button className="btnP btn-github"><a href="https://github.com/Said00510/TiendaDeRelojes" target='_blank'>{t("projects-sec.btnCode")} <AiFillGithub/></a></button>
+                                        <button className="btnP btn-demo"><a href="https://shop-reloj.netlify.app/" target='_blank'>{t("projects-sec.btnDemo")} <BsFillLightningChargeFill/></a></button>
                                     </div>
                             </div>
                         </div>

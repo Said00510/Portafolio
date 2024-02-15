@@ -24,7 +24,7 @@ function Footer(){
                             <a href="https://twitter.com/XAradiiaX" target='_blank'><FaXTwitter/></a>
                             <a href="#" target='_blank'><BsYoutube/></a>           
                             <a href="https://github.com/Said00510" target='_blank'><BsGithub/></a>           
-                            <a href="#" target='_blank'><BsInstagram/></a>           
+                            <a href="https://www.instagram.com/said.py_/" target='_blank'><BsInstagram/></a>           
                     </Col>
                 </Row>
             </Container>

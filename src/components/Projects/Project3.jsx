@@ -4,7 +4,7 @@ import { BiLogoJavascript } from 'react-icons/bi';
 import { AiFillGithub } from 'react-icons/ai';
 import { BsFillLightningChargeFill } from 'react-icons/bs';
 import ProjectThree from '../../assets/projects img/project3.png';   
-import React from '../../assets/tecnologias/React.png'; 
+import { FaReact } from "react-icons/fa"; 
 import { useTranslation } from "react-i18next";
 
 function Project3(){
@@ -33,6 +33,7 @@ function Project3(){
                                         <span title="HTML5" className="langes-html"><AiFillHtml5/></span>
                                         <span title="CSS3" className="langes-css"><BiLogoCss3/></span>
                                         <span title="JavaScript" className="langes-js"><BiLogoJavascript/></span>
+                                        <span title="React" className="langes-react"><FaReact/></span>
                                     </div>
                                     <p className="projects-text">
 
@@ -41,14 +42,11 @@ function Project3(){
                                     <span className="oranje"> {t("projectThree.descriptionSpan")} </span>
 
                                     {t("projectThree.descriptionContinue")} 
-
-                                    <span className="oranje"> {t("projectThree.descriptionSpan2")}</span>
-
                                     </p>
                                     
                                     <div className="projects-btn">
-                                        <button className="btnP btn-github"><a href="https://github.com/Said00510/PasswordGenerator" target='_blank'>{t("projects-sec.btnCode")} <AiFillGithub/></a></button>
-                                        <button className="btnP btn-demo"><a href="https://pass-gen-aradiacode.vercel.app/" target='_blank'>{t("projects-sec.btnDemo")} <BsFillLightningChargeFill/></a></button>
+                                        <button className="btnP btn-github"><a href="https://github.com/Said00510/Portafolio-Angie" target='_blank'>{t("projects-sec.btnCode")} <AiFillGithub/></a></button>
+                                        <button className="btnP btn-demo"><a href="https://portafolio-angie-rivas.vercel.app/" target='_blank'>{t("projects-sec.btnDemo")} <BsFillLightningChargeFill/></a></button>
                                     </div>
                             </div>
                         </div>

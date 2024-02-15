@@ -3,8 +3,7 @@ import { BiLogoCss3 } from 'react-icons/bi';
 import { BiLogoJavascript } from 'react-icons/bi';
 import { AiFillGithub } from 'react-icons/ai'
 import { BsFillLightningChargeFill } from 'react-icons/bs'
-import Qrimg from '../../assets/projects img/Qr.png'
-import React from '../../assets/tecnologias/React.png'
+import IpFinder from '../../assets/projects img/project.png'
 import { useTranslation } from "react-i18next";
 
 
@@ -21,7 +20,7 @@ function Project(){
 
                             <img loading='lazy' 
                                 className="projects-imgs" 
-                                src={Qrimg} 
+                                src={IpFinder} 
                                 alt="Imagen de proyecto" />
 
                         </div>
@@ -46,17 +45,17 @@ function Project(){
 
                                         {t("projectOne.and")}
 
-                                    <span className="oranje"> {t("projectOne.descriptionSpan3")}.</span></p>
+                                    </p>
 
                                     <div className="projects-btn">
                                         <button className="btnP btn-github">
-                                            <a href="https://github.com/Said00510/Generator_QRcode/tree/main" target='_blank'>
+                                            <a href="https://github.com/Said00510/IpsFinder" target='_blank'>
                                                 {t("projects-sec.btnCode")} <AiFillGithub/>
                                             </a>
                                         </button>
 
                                         <button className="btnP btn-demo">
-                                            <a href="https://qrcode-generator-aradiacode.vercel.app/" target='_blank'>
+                                            <a href="https://ip-finders.netlify.app/" target='_blank'>
                                                 {t("projects-sec.btnDemo")} <BsFillLightningChargeFill/>
                                             </a>
                                         </button>

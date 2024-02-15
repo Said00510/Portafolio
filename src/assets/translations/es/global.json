@@ -22,7 +22,7 @@
     "AmI_span": "Soy?",
     "letMeIntroduce": "Permíteme",
     "letMeIntroduce_span": "presentarme",
-    "programmingLove": "Amo programar y estoy en proceso de aprendizaje, creo que al menos he aprendido algo, creo... 😶‍🌫️",
+    "programmingLove": "Amo programar y estoy en proceso de aprendizaje. A pesar de llevar solo un par de meses en este mundo, he descubierto que es algo que me apasiona y me ilusiona mucho mejorar cada día más.",
     "learnedTechnologies": "He aprendido tecnologías como",
     "interestedInLearning": "Estoy interesado en aprender nuevas tecnologías como",
     "andAlsoInterestedIn": "y también en aprender sobre",
@@ -46,38 +46,37 @@
   },
 
   "projectOne":{
-    "title": "GENERADOR DE ",
-    "titleSpan": "CODIGOS QR",
-    "description": "Un sitio web diseñado para apoyar a la",
-    "descriptionSpan": "comunidad",
-    "descriptionContinue": "a poder generar códigos QR de una manera",
-    "descriptionSpan2": "simple",
-    "descriptionSpan3": "rapida",
-    "and": "y"
+    "title": "APP IP",
+    "titleSpan": "GEOLOCALIZACIÓN",
+    "description": "La idea detrás de este proyecto es crear una    ",
+    "descriptionSpan": "aplicación simple",
+    "descriptionContinue": "que permita a los usuarios ingresar una",
+    "descriptionSpan2": "dirección IP",
+    "and": "y obtener información relevante sobre ella."
   },
   
   "projectTwo":{
-    "title": "TIENDA DE ",
-    "titleSpan": "ROPA",
-    "description": "Tienda de ropa visual y estatica, la",
-    "descriptionSpan": "maquetacion",
-    "descriptionContinue": "esta presente por el uso de",
-    "and": "y"
+    "title": "TODO",
+    "titleSpan": "APP",
+    "description": "Organiza tus tareas pendientes y sé más productivo en tu día.",
+    "descriptionSpan": "Ese es mi objetivo",
+    "descriptionContinue": " con esta aplicación de lista de tareas, amigable a la vista."
   },
 
   "projectThree":{
-    "title": "GENERADOR DE",
-    "titleSpan": "CONTRASEÑAS",
-    "description": "Pagina que permite generar",
-    "descriptionSpan": "contraseñas",
-    "descriptionContinue": "aleatorias con diferentes",
-    "descriptionSpan2": "combinaciones"
+    "title": "PORTAFOLIO",
+    "titleSpan": "WEB",
+    "description": "Portafolio web para un cliente. El objetivo de este proyecto fue  ",
+    "descriptionSpan": "aprender a manejar React Router",
+    "descriptionContinue": "y técnicas de IU."
   },
 
   "projectFour":{
-    "description": "Crea cualquier tipo de",
-    "descriptionSpan": "dibujo,",
-    "descriptionContinue": "usa tu imaginacion al usar este"
+    "title":"TIENDA DE",
+    "titleSpan":"RELOJ",
+    "description": "Mi primer proyecto con",
+    "descriptionSpan": "JavaScript,",
+    "descriptionContinue": " donde implementé fetch local y manejé eventos"
   },
   
   "contact":{

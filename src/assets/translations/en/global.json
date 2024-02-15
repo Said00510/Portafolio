@@ -22,7 +22,7 @@
     "AmI_span": "am I?",
     "letMeIntroduce": "Let me introduce",
     "letMeIntroduce_span": "myself",
-    "programmingLove": "I love programming and I'm in the process of learning. I believe I've learned at least something, I think... 😶‍🌫️",
+    "programmingLove": "I love programming and I'm in the process of learning. Despite having only been in this world for a couple of months, I discovered that it is something that I am passionate about and I am very excited to improve every day.",
     "learnedTechnologies": "I've learned technologies like",
     "interestedInLearning": "I'm interested in learning new technologies like",
     "andAlsoInterestedIn": "and also interested in learning about",
@@ -45,39 +45,38 @@
   },
 
   "projectOne":{
-    "title": "QR CODE ",
-    "titleSpan": "GENERATOR",
-    "description": "A website designed to support the",
-    "descriptionSpan": "community",
-    "descriptionContinue": "in being able to generate QR codes in a",
-    "descriptionSpan2": "simple",
-    "descriptionSpan3": "fast way",
-    "and": "and"
+    "title": "IP GEOLOCATION",
+    "titleSpan": "APPLICATION ",
+    "description": "The idea behind this project is to create a",
+    "descriptionSpan": "simple application",
+    "descriptionContinue": "that allows users to enter an",
+    "descriptionSpan2": "IP address ",
+    "and": "and get relevant information about it."
   },
 
   
   "projectTwo":{
-    "title": "CLOTHING",
-    "titleSpan": "STORE",
-    "description": "Visual and static clothing store, the ",
-    "descriptionSpan": "layout",
-    "descriptionContinue": "is present through the use of ",
-    "and": "and"
+    "title": "TODO",
+    "titleSpan": "APP",
+    "description": "Organize your pending tasks and be more productive in your day.",
+    "descriptionSpan": "That's my goal",
+    "descriptionContinue": "with this eye-friendly to-do list app."
   },
 
   "projectThree":{
-    "title": "PASSWORD",
-    "titleSpan": "GENERATOR",
-    "description": "Page that allows you to generate random",
-    "descriptionSpan": "passwords",
-    "descriptionContinue": "with different ",
-    "descriptionSpan2": "combinations"
+    "title": "WEB",
+    "titleSpan": "PORTFOLIO",
+    "description": "Web portfolio for a client. The goal of this project was to learn how to",
+    "descriptionSpan": "handle React Router",
+    "descriptionContinue": "and UI techniques."
   },
 
   "projectFour":{
-    "description": "Create any type of ",
-    "descriptionSpan": "drawing,",
-    "descriptionContinue": "use your imagination when using this "
+    "title":"WATCH",
+    "titleSpan":"STORE",
+    "description": "My first project with",
+    "descriptionSpan": "JavaScript,",
+    "descriptionContinue": "where I implemented local fetch and handled events"
   },
 
   "contact":{

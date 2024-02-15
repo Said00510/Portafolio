@@ -362,23 +362,32 @@ a{
 
 .projects-card-langes span{
   font-size: 2rem;
-  transition: .2s ease;
+  transition: filter 0.3s ease
 }
 
-.langes-html svg:hover{
+.langes-html:hover{
   color: #FFA500;
   cursor: pointer;
   filter: drop-shadow(0 0 20px #FF5733);
 }
-.langes-css svg:hover{
+.langes-css:hover{
   color: #0074e4;
   cursor: pointer;
   filter: drop-shadow(0 0 20px #0074e4);
 }
-.langes-js svg:hover{
+.langes-js:hover{
   color: #FFD700;
   cursor: pointer;
   filter: drop-shadow(0 0 20px #FFD700);
+}
+
+.langes-react{
+  padding-left: 4px;
+}
+.langes-react:hover{
+  color: #61dafb;
+  cursor: pointer;
+  filter: drop-shadow(0 0 20px #61dafb);
 }
 
 .projects-text{

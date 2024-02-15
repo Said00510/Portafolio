@@ -22,7 +22,7 @@ function Home(){
                 <Row className="home-row">
                     <Col md={12} className="home-content">
                         <h1 className="heading-name">
-                            <strong>ARADIA</strong>
+                            <strong>SAID DEV</strong>
                         </h1>
 
                         <div className="home-type">
