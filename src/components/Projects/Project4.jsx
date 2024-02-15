@@ -4,7 +4,6 @@ import { BiLogoJavascript } from 'react-icons/bi';
 import { AiFillGithub } from 'react-icons/ai';
 import { BsFillLightningChargeFill } from 'react-icons/bs';
 import ProjectFour from '../../assets/projects img/project4.png';
-import React from '../../assets/tecnologias/React.png';
 import { useTranslation } from "react-i18next";
 
 
@@ -23,7 +22,7 @@ function Project4(){
                     </div>
                         <div className="info-wrapper">
                             <div className="information">
-                                    <h2 className="projects-title">{t("projectThree.title")} <span className="red">{t("projectThree.titleSpan")}</span></h2>
+                                    <h2 className="projects-title">{t("projectFour.title")} <span className="red">{t("projectFour.titleSpan")}</span></h2>
                                     <div className="projects-card-langes">
                                         <span title="HTML5" className="langes-html"><AiFillHtml5/></span>
                                         <span title="CSS3" className="langes-css"><BiLogoCss3/></span>
