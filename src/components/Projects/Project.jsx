@@ -49,13 +49,13 @@ function Project(){
 
                                     <div className="projects-btn">
                                         <button className="btnP btn-github">
-                                            <a href="https://github.com/Said00510/IpsFinder" target='_blank'>
+                                            <a href="https://github.com/Said00510/Weather-App" target='_blank'>
                                                 {t("projects-sec.btnCode")} <AiFillGithub/>
                                             </a>
                                         </button>
 
                                         <button className="btnP btn-demo">
-                                            <a href="https://ip-finders.netlify.app/" target='_blank'>
+                                            <a href="https://weather-app-pi-sooty.vercel.app/" target='_blank'>
                                                 {t("projects-sec.btnDemo")} <BsFillLightningChargeFill/>
                                             </a>
                                         </button>

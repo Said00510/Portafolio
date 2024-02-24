@@ -45,13 +45,13 @@
   },
 
   "projectOne":{
-    "title": "IP GEOLOCATION",
-    "titleSpan": "APPLICATION ",
+    "title": "WEATHER ",
+    "titleSpan": "APP ",
     "description": "The idea behind this project is to create a",
     "descriptionSpan": "simple application",
-    "descriptionContinue": "that allows users to enter an",
-    "descriptionSpan2": "IP address ",
-    "and": "and get relevant information about it."
+    "descriptionContinue": "that allows to view the",
+    "descriptionSpan2": "weather",
+    "and": "with their location information."
   },
 
   
